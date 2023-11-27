@@ -1,4 +1,4 @@
-module gitlab.lrts.tmeoa.com/yyting-trpc-go/tme-isp
+module gitlab.lrts.tmeoa.com/yyting-trpc-go
 
 go 1.20
 
