@@ -1,4 +1,4 @@
-module gitlab.lrts.tmeoa.com/yyting-trpc-go/isp_discern
+module gitlab.lrts.tmeoa.com/yyting-trpc-go/tme-isp
 
 go 1.20
 
