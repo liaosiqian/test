@@ -4,7 +4,7 @@
 // 	protoc        v3.19.1
 // source: isp_discern.proto
 
-package tme_isp
+package tmeisp
 
 import (
 	reflect "reflect"
