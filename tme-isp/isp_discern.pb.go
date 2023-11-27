@@ -4,7 +4,7 @@
 // 	protoc        v3.19.1
 // source: isp_discern.proto
 
-package trpc_tme_songbank_isp_discern
+package tme_isp
 
 import (
 	reflect "reflect"
