@@ -1,4 +1,4 @@
-module trpc.tme_songbank.isp_discern
+module gitlab.lrts.tmeoa.com/yyting-trpc-go/isp_discern
 
 go 1.20
 
